@@ -1,8 +1,8 @@
-# 👋 Hey there! I'm Kannupriya  
+# 👋 Hey there! I'm Kannu Priya  
 
-🚀 Data Scientist | Forecasting Enthusiast | Machine Learning Explorer**  
+🚀 Data Scientist | Business Intelligence | Machine Learning Explorer 
 
-I enjoy the thrill of turning **data into actionable insights** and building solutions that solve real-world business problems. From forecasting demand with ARIMA & LSTM** models to crafting powerful ETL pipelines on AWS, I blend statistics, coding, and machine learning to create systems that predict, recommend, and optimize.
+I enjoy the thrill of turning data into actionable insights and building solutions that solve real-world business problems. From forecasting demand with ARIMA & LSTM models to crafting powerful ETL pipelines on AWS, I blend statistics, coding, and machine learning to create systems that predict, recommend, and optimize.
 
 💡 What I love working on:**  
 - Predicting the future (no crystal ball needed) with **time series forecasting** tools like ARIMA, Prophet, and LSTM.  
