@@ -33,7 +33,7 @@ Other Fun Things: Airflow, Lambda, S3, Data Science & Visualizations
 
 ---
 
-### 📫 Let’s Connect**  
+### 📫 Let’s Connect  
 💼 [LinkedIn](https://www.linkedin.com/in/kannu-priya259/)  
 🌐 [Portfolio Website](https://public.tableau.com/app/profile/kannu.priya/vizzes)  
 
