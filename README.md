@@ -4,7 +4,7 @@
 
 I enjoy the thrill of turning data into actionable insights and building solutions that solve real-world business problems. From forecasting demand with ARIMA & LSTM models to crafting powerful ETL pipelines on AWS, I blend statistics, coding, and machine learning to create systems that predict, recommend, and optimize.
 
-💡 What I love working on:**  
+💡 What I love working on:  
 - Predicting the future (no crystal ball needed) with **time series forecasting** tools like ARIMA, Prophet, and LSTM.  
 - Making sense of complex data with **machine learning models—whether it's detecting churn or creating personalized recommendations.  
 - Building ETL pipelines to make data flow smoothly from S3 to Snowflake.  
@@ -13,10 +13,10 @@ I enjoy the thrill of turning data into actionable insights and building solutio
 ---
 
 ### 🛠 My Stack  
-**Languages & Tools: Python, SQL, R, AWS, Tableau, Power BI, PostgreSQL  
-**Favorite Algorithms: ARIMA, LSTM, XGBoost, Random Forest  
-**Platforms I Trust:Salesforce, Snowflake, Redshift  
-**Other Fun Things: Airflow, Lambda, S3, Data Science & Visualizations
+Languages & Tools: Python, SQL, R, AWS, Tableau, Power BI, PostgreSQL  
+Favorite Algorithms: ARIMA, LSTM, XGBoost, Random Forest  
+Platforms I Trust:Salesforce, Snowflake, Redshift  
+Other Fun Things: Airflow, Lambda, S3, Data Science & Visualizations
 
 ---
 
@@ -33,7 +33,7 @@ I enjoy the thrill of turning data into actionable insights and building solutio
 
 ---
 
-### 📫 **Let’s Connect**  
+### 📫 Let’s Connect**  
 💼 [LinkedIn](https://www.linkedin.com/in/kannu-priya259/)  
 🌐 [Portfolio Website](https://public.tableau.com/app/profile/kannu.priya/vizzes)  
 
