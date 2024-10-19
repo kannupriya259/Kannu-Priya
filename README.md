@@ -2,13 +2,13 @@
 
 🚀 Data Scientist | Forecasting Enthusiast | Machine Learning Explorer**  
 
-I enjoy the thrill of turning **data into actionable insights** and building solutions that solve real-world business problems. From forecasting demand with **ARIMA & LSTM** models to crafting powerful ETL pipelines on **AWS**, I blend statistics, coding, and machine learning to create systems that predict, recommend, and optimize.
+I enjoy the thrill of turning **data into actionable insights** and building solutions that solve real-world business problems. From forecasting demand with ARIMA & LSTM** models to crafting powerful ETL pipelines on AWS, I blend statistics, coding, and machine learning to create systems that predict, recommend, and optimize.
 
 💡 What I love working on:**  
 - Predicting the future (no crystal ball needed) with **time series forecasting** tools like ARIMA, Prophet, and LSTM.  
 - Making sense of complex data with **machine learning models—whether it's detecting churn or creating personalized recommendations.  
 - Building ETL pipelines to make data flow smoothly from S3 to Snowflake.  
-- Designing **dashboards** that make numbers speak, using Tableau and Power BI.  
+- Designing dashboards that make numbers speak, using Tableau and Power BI.  
 
 ---
 
@@ -39,4 +39,4 @@ I enjoy the thrill of turning **data into actionable insights** and building sol
 
 ---
 
-⚡ **Fun Fact:** I once trained a machine learning model to predict my coffee cravings—and it’s pretty accurate. ☕
+⚡ Fun Fact:I once trained a machine learning model to predict my coffee cravings—and it’s pretty accurate. ☕
