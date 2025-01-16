@@ -1,38 +1,31 @@
 # 👋 Hey there! I'm Kannu Priya  
 
-🚀 Data Scientist | Business Intelligence | Machine Learning Explorer 
+🚀 Data Engineer 
 
-I enjoy the thrill of turning data into actionable insights and building solutions that solve real-world business problems. From forecasting demand with ARIMA & LSTM models to crafting powerful ETL pipelines on AWS, I blend statistics, coding, and machine learning to create systems that predict, recommend, and optimize.
+
 
 💡 What I love working on:  
-- Predicting the future (no crystal ball needed) with **time series forecasting** tools like ARIMA, Prophet, and LSTM.  
-- Making sense of complex data with **machine learning models—whether it's detecting churn or creating personalized recommendations.  
-- Building ETL pipelines to make data flow smoothly from S3 to Snowflake.  
-- Designing dashboards that make numbers speak, using Tableau and Power BI.  
-
----
+- Data Engineer with expertise in AWS cloud, ETL pipelines, and data migration. Skilled in optimizing workflows, processing large-scale data, and enabling efficient analytics. Proven track record of reducing costs, enhancing reliability, and supporting data-driven decisions.
 
 ### 🛠 My Stack  
-Languages & Tools: Python, SQL, R, AWS, Tableau, Power BI, PostgreSQL  
-Favorite Algorithms: ARIMA, LSTM, XGBoost, Random Forest  
-Platforms I Trust:Salesforce, Snowflake, Redshift  
-Other Fun Things: Airflow, Lambda, S3, Data Science & Visualizations
 
+---Cloud Technologies: AWS (EC2, S3, Lambda, Glue, Redshift, RDS, Kinesis, CloudWatch, CloudFormation)
+Big Data Tools: Apache Spark, Hadoop, Kafka
+Data Warehousing & Databases: AWS Redshift, Snowflake, MySQL, PostgreSQL, MongoDB
+ETL & Data Integration Tools: Apache NiFi, Talend, AWS Glue
+Programming Languages: Python, SQL
+DevOps & Automation: Jenkins, Docker, Terraform
+Data Visualization & Collaboration: Tableau, Power BI, AWS QuickSight, Git, Jupyter Notebooks, Airflow, REST APIs
 ---
 
-### 🌱 Currently Exploring**  
-- Generative AI and how it reshapes forecasting and recommendations.  
-- Deep learning applications in demand forecasting.  
-- Playing with cloud-native tools for large-scale data engineering.  
 
 ---
 
 ### 📈 Some of My Projects 
-- E-commerce Demand Forecasting & Recommendation System**: Predict what customers want next with collaborative filtering and hybrid models.  
-- Retail Operations & Demand Forecasting Platform (SROMP)**: Managing inventories and forecasting sales with relational databases and Holt-Winters models.  
-
----
-
+- 
+Real-Time User Interaction Prediction with Scalable Recommendation Systems
+End-to-End Predictive Analytics Data Pipeline
+Brain Tumor Detection and Classification Using MRI images
 ### 📫 Let’s Connect  
 💼 [LinkedIn](https://www.linkedin.com/in/kannu-priya259/)  
 🌐 [Portfolio Website](https://public.tableau.com/app/profile/kannu.priya/vizzes)  
